@@ -1304,6 +1304,8 @@ header {
   opacity: 0.2 !important;
   margin: 0 !important;
   transition: 0.3s;
+    border-radius: 8px !important;
+
 }
 .swiper-pagination-bullet-active {
   width: 8px !important;
