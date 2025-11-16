@@ -638,6 +638,7 @@ header {
   );
   border: 1px solid #c2ccf61f;
   backdrop-filter: blur(20px);
+  --webkit-filter: blur(20px);
   border-radius: 8px;
   padding: 10px 15px;
   max-width: max-content;
